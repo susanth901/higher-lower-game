@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: navy;
+  color: white;
+}
+
+.game-container {
+  text-align: center;
+  padding: 50px;
+}
+
+.university-info {
+  margin-bottom: 20px;
+}
+
+h1, p {
+  color: gold;
+}
+
+.btn {
+  background-color: white;
+  color: navy;
+  border: none;
+  padding: 15px 30px;
+  margin: 10px;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: gold;
+  color: navy;
+}
+
+.game-over {
+  text-align: center;
+  color: white;
+}
